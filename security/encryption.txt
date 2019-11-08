@@ -1,0 +1,1 @@
+https://developer.mastercard.com/platform/documentation/securing-sensitive-data-using-payload-encryption/
